@@ -14,7 +14,7 @@ items:
   - { name: mbuf_resize.md }
   - { name: mbuf_trim.md }
   - { name: struct_mbuf.md }
----
+---|
 
 Mbufs are mutable/growing memory buffers, like C++ strings.
 Mbuf can append data to the end of a buffer or insert data into arbitrary
