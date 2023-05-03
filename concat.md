@@ -22,10 +22,6 @@ position in the middle of a buffer. The buffer grows automatically when
 needed.
 
 ---
-
-...
-
----
 title: "mbuf_append()"
 decl_name: "mbuf_append"
 symbol_kind: "func"
